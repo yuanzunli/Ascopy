@@ -12,8 +12,8 @@ of resources available for that (try `this one
 Our `paper <https://arxiv.org/abs/1810.12713>`_ explaining 
 the Ascopy algorithm and implementation in detail. Ascopy is being actively developed on `GitHub <https://github.com/yuanzunli/Ascopy>`_.
 
-.. image:: https://img.shields.io/badge/GitHub-wenjie-astro%2FAscopy-blue.svg?style=flat
-    :target: https://github.com/wenjie-astro/Ascopy
+.. image:: https://img.shields.io/badge/GitHub-yuanzunli%2FkdeLF-blue.svg?style=flat
+    :target: https://github.com/yuanzunli/Ascopy
 .. image:: https://img.shields.io/badge/arXiv-1810.12713-red
     :target: https://arxiv.org/abs/1810.12713
 .. image:: https://img.shields.io/badge/arXiv-1810.12713-brightgreen
