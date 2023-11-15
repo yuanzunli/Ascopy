@@ -2,11 +2,11 @@ Ascopy
 =====
 
 **Ascopy** is an MIT licensed Python implementation of Yuan et al.'s
-`Kernel Density Estimation (KDE) method for estimating luminosity functions 
+`Copula method for correlation analysis 
 <https://arxiv.org/abs/2203.06700>`_ and these pages will
 show you how to use it.
 
-This documentation won't teach you too much about KDE but there are a lot
+This documentation won't teach you too much about Copula but there are a lot
 of resources available for that (try `this one
 <https://en.wikipedia.org/wiki/Copula>`_).
 Our `paper <https://arxiv.org/abs/1810.12713>`_ explaining 
