@@ -78,8 +78,8 @@ first.
    tutorials/quickstart
    tutorials/plot
    tutorials/parallel
-   tutorials/KS-test
-   tutorials/MCMC
+   tutorials/AIC
+   tutorials/Copula modeling 
 
 
 License & Attribution
